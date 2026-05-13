@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
 
@@ -13,11 +13,11 @@ export default function ResultPage() {
     useState(null);
 
   const score = Number(
-    searchParams.get("score")
+    searchParams.get("score") || 0
   );
 
   const total = Number(
-    searchParams.get("total")
+    searchParams.get("total") || 1
   );
 
   const percentage = Math.round(
@@ -33,6 +33,7 @@ export default function ResultPage() {
       setStudentData(JSON.parse(data));
     }
   }, []);
+
 
   const getGrade = () => {
     if (percentage >= 90) return "A+";
