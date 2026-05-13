@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "A customer enters Vishal Mega Mart with 17 bags. What should the guard do first?",
+    "options": [
+      "Start counting bags till retirement",
+      "Politely check the bags",
+      "Run away",
+      "Ask customer for shopping tips"
+    ],
+    "answer": "Politely check the bags"
+  },
+  {
+    "id": 2,
+    "question": "If a kid presses the emergency bell for fun, what should the guard do?",
+    "options": [
+      "Press it again for remix",
+      "Dance dramatically",
+      "Handle the situation calmly",
+      "Call Avengers"
+    ],
+    "answer": "Handle the situation calmly"
+  },
+  {
+    "id": 3,
+    "question": "What is the most important weapon of a security guard?",
+    "options": [
+      "Dark sunglasses",
+      "Whistle and alertness",
+      "Unlimited chai",
+      "Instagram followers"
+    ],
+    "answer": "Whistle and alertness"
+  },
+  {
+    "id": 4,
+    "question": "A customer says, 'Bhaiya bas dekh raha hoon.' What should the guard do?",
+    "options": [
+      "Start emotional speech",
+      "Respectfully let them browse",
+      "Follow them like CID",
+      "Ask for autograph"
+    ],
+    "answer": "Respectfully let them browse"
+  },
+  {
+    "id": 5,
+    "question": "If the CCTV stops working, what should the guard do?",
+    "options": [
+      "Use binoculars",
+      "Inform management immediately",
+      "Pray to technology gods",
+      "Take selfie with camera"
+    ],
+    "answer": "Inform management immediately"
+  },
+  {
+    "id": 6,
+    "question": "What should a security guard do during duty hours?",
+    "options": [
+      "Sleep peacefully",
+      "Watch cricket highlights",
+      "Stay alert and monitor people",
+      "Open YouTube shorts"
+    ],
+    "answer": "Stay alert and monitor people"
+  },
+  {
+    "id": 7,
+    "question": "A suspicious person is acting strangely near the exit. What should the guard do?",
+    "options": [
+      "Challenge him to WWE match",
+      "Ignore completely",
+      "Observe and report carefully",
+      "Ask him to subscribe on YouTube"
+    ],
+    "answer": "Observe and report carefully"
+  },
+  {
+    "id": 8,
+    "question": "Which skill is most useful for a Vishal Mega Mart guard?",
+    "options": [
+      "Moonwalking",
+      "Good observation",
+      "Meme knowledge",
+      "Gaming skills"
+    ],
+    "answer": "Good observation"
+  },
+  {
+    "id": 9,
+    "question": "If two customers start arguing loudly, what should the guard do?",
+    "options": [
+      "Sell tickets to audience",
+      "Record for reels",
+      "Calmly control the situation",
+      "Join the argument"
+    ],
+    "answer": "Calmly control the situation"
+  },
+  {
+    "id": 10,
+    "question": "What is the correct duty of a security guard at the entrance?",
+    "options": [
+      "Checking safety and greeting customers",
+      "Selling pani puri",
+      "Giving movie reviews",
+      "Sleeping near gate"
+    ],
+    "answer": "Checking safety and greeting customers"
+  }
+]
